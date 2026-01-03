@@ -1,5 +1,4 @@
 # CodeAlpha Stock Portfolio Tracker
-# Clean version without global exception handling
 
 stock_prices = {
     "AAPL": 180,
@@ -69,4 +68,5 @@ with open("portfolio.txt", "w", encoding="utf-8") as file:
 
     file.write("-" * 40 + "\n")
     file.write(f"Total Investment Value: {total_investment}")
+
 
