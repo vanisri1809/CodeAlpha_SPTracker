@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+----------------------------------------
+GOOG | Price: 140 | Quantity: 2 | Value: 280
+MSFT | Price: 320 | Quantity: 1 | Value: 320
+----------------------------------------
+Total Investment Value: 600
