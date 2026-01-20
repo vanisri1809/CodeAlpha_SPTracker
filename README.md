@@ -52,7 +52,6 @@ AAPL | Price: 180 | Quantity: 2 | Value: 360
 TSLA | Price: 250 | Quantity: 1 | Value: 250
 Total Investment Value: 610
 
-```
 
 📚 Learning Outcomes
    - Gained hands-on experience with Python dictionaries and loops
@@ -63,6 +62,7 @@ Total Investment Value: 610
 👩‍💻 Author
 Vani Sri Rao
 Python Programming Intern – CodeAlpha
+
 
 
 
