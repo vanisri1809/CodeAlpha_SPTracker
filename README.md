@@ -61,10 +61,12 @@ Total Investment Value: 610
    - Learned how to perform basic data processing
    - Understood file handling for saving program output
    - Improved problem-solving and logical thinking skills
+     
+## 👩‍💻 Author
+Vani Sri Rao␣␣
+Python Programming Intern – CodeAlpha
 
-👩‍💻 Author
-  - Vani Sri Rao
-  - Python Programming Intern – CodeAlpha
+
 
 
 
