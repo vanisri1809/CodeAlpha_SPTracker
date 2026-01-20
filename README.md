@@ -63,8 +63,9 @@ Total Investment Value: 610
    - Improved problem-solving and logical thinking skills
 
 👩‍💻 Author
-Vani Sri Rao
-Python Programming Intern – CodeAlpha
+     Vani Sri Rao
+     Python Programming Intern – CodeAlpha
+
 
 
 
