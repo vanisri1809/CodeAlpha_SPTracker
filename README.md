@@ -38,8 +38,10 @@ This project was developed as part of the **CodeAlpha Python Programming Interns
 
 ```bash
 python stock_tracker.py
+```
 
 📂 Project Structure
+```
 CodeAlpha_StockPortfolioTracker/
 │── stock_tracker.py
 │── portfolio.txt
@@ -48,10 +50,11 @@ CodeAlpha_StockPortfolioTracker/
 ```
 
 📊 Sample Output
+```
 AAPL | Price: 180 | Quantity: 2 | Value: 360
 TSLA | Price: 250 | Quantity: 1 | Value: 250
 Total Investment Value: 610
-
+```
 
 📚 Learning Outcomes
    - Gained hands-on experience with Python dictionaries and loops
@@ -62,6 +65,7 @@ Total Investment Value: 610
 👩‍💻 Author
 Vani Sri Rao
 Python Programming Intern – CodeAlpha
+
 
 
 
